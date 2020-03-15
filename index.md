@@ -37,6 +37,6 @@ on photo quality paper.
   
   You now have an acceptable photo to go with your passport application!
 
-**Related Links** \n
-[Online Passport Photo Editing Tool](https://travel.state.gov/content/dam/passports/content-page-resources/FIG_cropper.swf) \n
+**Related Links** </br>
+[Online Passport Photo Editing Tool](https://travel.state.gov/content/dam/passports/content-page-resources/FIG_cropper.swf) </br>
 [Sample Acceptable Passport Photos](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/photo-examples.html)
