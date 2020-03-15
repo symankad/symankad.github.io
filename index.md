@@ -1,6 +1,6 @@
 # Taking a Passport Photo
 
-### You can get your own passport photo that meets U.S. Department of State requirements.
+**You can get your own passport photo that meets U.S. Department of State requirements.**
 
 Plan to take the photo no more than six months before you apply for a passport.
 You will need the following:
